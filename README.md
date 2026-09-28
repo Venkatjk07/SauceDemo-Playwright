@@ -85,7 +85,7 @@ The automation project covers the following scenarios:
 ### 1. Clone the Project
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/Venkatjk07/SauceDemo-Playwright.git
 ```
 
 ### 2. Navigate to the Project
